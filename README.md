@@ -1,5 +1,10 @@
 # Expense Mobile App React Native
 
+## Description
+The Expense Calculator is a user expense react native mobile application.
+
+### ***JWT & CRUD is Implemented***
+
 ## Screenshots of the application
 
 * 1) User Sign-up:
